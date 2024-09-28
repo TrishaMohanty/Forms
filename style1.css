@@ -11,7 +11,7 @@ body{ display: flex;
     flex-direction: column;
     justify-content: center;
     min-height: 100vh; 
-    background: url(moutains.jpg) no-repeat;
+    background: url(moutain3.jpeg) no-repeat;
     background-size: cover;
     background-position:center ;
 }
